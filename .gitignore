@@ -1,0 +1,14 @@
+# Python
+_pycache_/
+*.py[cod]
+*.egg-info/
+.env
+.vscode/
+.ipynb_checkpoints/
+
+# Data
+data/
+models/
+
+# OS
+.DS_Store
